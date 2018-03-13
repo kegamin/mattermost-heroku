@@ -1,6 +1,6 @@
 {
     "ServiceSettings": {
-        "SiteURL": "",
+        "SiteURL": "https://young-escarpment-80860.herokuapp.com",
         "ListenAddress": "0.0.0.0:${PORT}",
         "MaximumLoginAttempts": 10,
         "SegmentDeveloperKey": "",
